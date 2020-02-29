@@ -6,5 +6,8 @@
 ##### Day 4: The hashtag generator 
 ##### Day 5: Pick peaks
 ##### Day 6: Human Readable Time
+##### Day 7: Suduko solution validator - required help! 
+##### Day 8: Find the first non consequtive number 
+
 
 
