@@ -1,4 +1,4 @@
-# KataChallenge - 100 Days of codewars
+# KataChallenge - codewars
 
 ##### Day 1: Which are in 
 ##### Day 2: Delete occurrences of an element if it occurs more than n times
